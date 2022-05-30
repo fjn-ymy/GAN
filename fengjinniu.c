@@ -1,6 +1,8 @@
 #include "stdio.h"
 #include "string.h"
 
+你好，世界
+
 int main()
 {
 
